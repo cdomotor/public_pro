@@ -1,0 +1,10 @@
+C:\Users\cameron.domotor\Documents\_ALS\CODE REPO\public_pro\AT_Commander_v1\AT_Commander_v1\bin\Debug\AT_Commander_v1.exe.config
+C:\Users\cameron.domotor\Documents\_ALS\CODE REPO\public_pro\AT_Commander_v1\AT_Commander_v1\bin\Debug\AT_Commander_v1.exe
+C:\Users\cameron.domotor\Documents\_ALS\CODE REPO\public_pro\AT_Commander_v1\AT_Commander_v1\bin\Debug\AT_Commander_v1.pdb
+C:\Users\cameron.domotor\Documents\_ALS\CODE REPO\public_pro\AT_Commander_v1\AT_Commander_v1\obj\Debug\AT_Commander_v1.csprojResolveAssemblyReference.cache
+C:\Users\cameron.domotor\Documents\_ALS\CODE REPO\public_pro\AT_Commander_v1\AT_Commander_v1\obj\Debug\AT_Commander_v1.Form1.resources
+C:\Users\cameron.domotor\Documents\_ALS\CODE REPO\public_pro\AT_Commander_v1\AT_Commander_v1\obj\Debug\AT_Commander_v1.Properties.Resources.resources
+C:\Users\cameron.domotor\Documents\_ALS\CODE REPO\public_pro\AT_Commander_v1\AT_Commander_v1\obj\Debug\AT_Commander_v1.csproj.GenerateResource.cache
+C:\Users\cameron.domotor\Documents\_ALS\CODE REPO\public_pro\AT_Commander_v1\AT_Commander_v1\obj\Debug\AT_Commander_v1.csproj.CoreCompileInputs.cache
+C:\Users\cameron.domotor\Documents\_ALS\CODE REPO\public_pro\AT_Commander_v1\AT_Commander_v1\obj\Debug\AT_Commander_v1.exe
+C:\Users\cameron.domotor\Documents\_ALS\CODE REPO\public_pro\AT_Commander_v1\AT_Commander_v1\obj\Debug\AT_Commander_v1.pdb
