@@ -136,6 +136,7 @@
             this.cmdGO1.TabIndex = 13;
             this.cmdGO1.Text = "CONNECT";
             this.cmdGO1.UseVisualStyleBackColor = true;
+            this.cmdGO1.Click += new System.EventHandler(this.cmdConnect_Click);
             // 
             // rtRX1
             // 
